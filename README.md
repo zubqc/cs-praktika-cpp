@@ -1,1 +1,1 @@
-# cs-praktika_runets
+# cs-praktika
